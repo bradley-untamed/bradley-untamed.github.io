@@ -396,4 +396,3 @@ This project demonstrated container deployment, persistent storage, service moni
 - [Ubuntu OpenSSH server](https://documentation.ubuntu.com/server/how-to/security/openssh-server/)
 - [Ubuntu automatic updates](https://documentation.ubuntu.com/server/how-to/software/automatic-updates/)
 - [Proxmox backup and restore](https://pve.proxmox.com/pve-docs/chapter-vzdump.html)
-- CYB 3353 Project 2 Kickoff slides, Fall 2026.
