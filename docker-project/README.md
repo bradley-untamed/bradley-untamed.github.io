@@ -1,6 +1,6 @@
-# Project 2: Self-Hosted Uptime Kuma with Docker Compose
+# Self-Hosted Uptime Kuma with Docker Compose
 
-**Bradley Titagwan | CYB 3353 | November 22, 2026**
+**Bradley Titagwan |  November 22, 2026**
 
 ## Introduction
 
