@@ -1,3 +1,8 @@
+## Course Projects
+
+- [Project 1: Arch Linux Installation](./)
+- [Project 2: Docker and Uptime Kuma](./docker-project/)
+
 # Arch Linux Installation and Configuration
 
 **Documentation date:** November 1, 2026  
